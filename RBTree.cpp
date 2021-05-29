@@ -1,4 +1,4 @@
-﻿// Created by William Simcox for CSS343
+﻿// Created by William Simcox
 
 #include <iostream>
 #include "RBTree.h"
