@@ -1,4 +1,4 @@
-// Created by William Simcox for CSS343
+// Created by William Simcox
 
 #pragma once
 #include "RBTree.h"
